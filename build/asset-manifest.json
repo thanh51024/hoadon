@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hoadon1/static/css/main.0bfa1f7c.css",
+    "main.js": "/hoadon1/static/js/main.3e4377e5.js",
+    "static/js/488.c55c8797.chunk.js": "/hoadon1/static/js/488.c55c8797.chunk.js",
+    "index.html": "/hoadon1/index.html",
+    "main.0bfa1f7c.css.map": "/hoadon1/static/css/main.0bfa1f7c.css.map",
+    "main.3e4377e5.js.map": "/hoadon1/static/js/main.3e4377e5.js.map",
+    "488.c55c8797.chunk.js.map": "/hoadon1/static/js/488.c55c8797.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bfa1f7c.css",
+    "static/js/main.3e4377e5.js"
+  ]
+}
